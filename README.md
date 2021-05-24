@@ -1,8 +1,8 @@
 ## Hi 👋
 
 * 📫 How to reach me: 
-  * Email: filiphodun@gmail.com
-  * Matrix: @fhodun:matrix.org
+  * Email: [filiphodun@gmail.com](mailto:filiphodun@gmail.com)
+  * Matrix: [@fhodun:matrix.org](https://matrix.to/#/@fhodun:matrix.org)
 
 
 <!--
