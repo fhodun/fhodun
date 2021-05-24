@@ -19,12 +19,12 @@
 <details>    
   <summary><b>⚡ Github Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhodun&show_icons=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhodun&show_icons=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhodun&hide_border=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhodun&hide_border=true&show_icons=true&theme=tokyonight&layout=compact&langs_count=8"/>
 </details>
 
 <details>    
   <summary><b>☄️ Github Streaks</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fhodun" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fhodun&hide_border=true&theme=tokyonight" />
 </details>
