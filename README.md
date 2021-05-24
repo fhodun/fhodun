@@ -1,4 +1,7 @@
-## Hi 👋
+<!--
+## Hi 😎🤙
+-->
+## Hello 👋, I'm Filip Hodun
 
 * 📫 How to reach me: 
   * Email: [filiphodun@gmail.com](mailto:filiphodun@gmail.com)
