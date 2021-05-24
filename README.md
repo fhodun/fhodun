@@ -1,16 +1,36 @@
-### Hi there 👋
+## Hi 👋
+
+* 📫 How to reach me: 
+  * Email: filiphodun@gmail.com
+  * Matrix: @fhodun:matrix.org
+
 
 <!--
-**fhodun/fhodun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on anything
+- 🌱 I’m currently learning something
+- 👯 I’m looking to collaborate on everything
+- 🤔 I’m looking for help with nothing
+- 💬 Ask me about nothing
+- 📫 How to reach me: idk
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: none
 -->
+
+<details>    
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhodun&show_icons=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhodun&show_icons=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>    
+  <summary><b>☄️ Github Streaks</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fhodun" />
+</details>
+
+<details>    
+  <summary><b>⏱️ WakaTime Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=d2f7eca4-4076-4cf0-9b5f-33cd419b2689" />
+</details>
