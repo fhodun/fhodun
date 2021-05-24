@@ -31,3 +31,9 @@
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fhodun&hide_border=true&theme=tokyonight" />
 </details>
+
+<details>    
+  <summary><b>⏱️ WakaTime Stats</b></summary>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=d2f7eca4-4076-4cf0-9b5f-33cd419b2689&hide_border=true&theme=tokyonight" />
+</details>
