@@ -9,14 +9,14 @@
 
 
 <!--
-- 🔭 I’m currently working on anything
-- 🌱 I’m currently learning something
-- 👯 I’m looking to collaborate on everything
-- 🤔 I’m looking for help with nothing
-- 💬 Ask me about nothing
-- 📫 How to reach me: idk
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with 
+- 💬 Ask me about 
+- 📫 How to reach me: 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: none
+- ⚡ Fun fact: 
 -->
 
 <details>    
@@ -37,3 +37,5 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=d2f7eca4-4076-4cf0-9b5f-33cd419b2689&hide_border=true&theme=tokyonight" />
 </details>
+
+My VSCode configuration: [https://gist.github.com/fhodun/0beed4cc329120b896da40a1f3104448](https://gist.github.com/fhodun/0beed4cc329120b896da40a1f3104448)
