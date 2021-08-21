@@ -27,7 +27,7 @@
 <details>    
   <summary><b>⏱️ WakaTime Stats</b></summary>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=d2f7eca4-4076-4cf0-9b5f-33cd419b2689&hide_border=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=d2f7eca4-4076-4cf0-9b5f-33cd419b2689&hide_border=true&theme=tokyonight" />
 </details>
 
 My VSCodium configuration: [https://gist.github.com/fhodun/0beed4cc329120b896da40a1f3104448](https://gist.github.com/fhodun/0beed4cc329120b896da40a1f3104448)
