@@ -1,4 +1,4 @@
-## Hello 👋, I'm Filip Hodun
+<!-- ## Hello 👋, I'm Filip Hodun -->
 
 <!--
 - 🔭 I’m currently working on 
