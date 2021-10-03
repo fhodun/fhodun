@@ -30,4 +30,5 @@
   <img width="460em" src="https://github-readme-stats.vercel.app/api/wakatime?username=d2f7eca4-4076-4cf0-9b5f-33cd419b2689&hide_border=true&theme=tokyonight" />
 </details>
 
-My VSCodium configuration: [https://gist.github.com/fhodun/0beed4cc329120b896da40a1f3104448](https://gist.github.com/fhodun/0beed4cc329120b896da40a1f3104448)
+My VSCodium configuration: https://gist.github.com/fhodun/0beed4cc329120b896da40a1f3104448
+My VSCode configuration: https://gist.github.com/fhodun/67d7920f9dccaf840f7eb6dab3f4ba8e
