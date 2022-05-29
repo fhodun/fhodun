@@ -1,3 +1,4 @@
+<img src="./header.png"/>
 <!-- ## Hello 👋, I'm Filip Hodun -->
 
 <!--
@@ -23,3 +24,7 @@
   <br />
   <img width="460em" src="https://github-readme-streak-stats.herokuapp.com/?user=fhodun&hide_border=true&theme=tokyonight" />
 </details>
+
+## Random programming joke
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
