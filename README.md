@@ -1,7 +1,11 @@
 <img src="./header.png"/>
 
-<img width="460em" src="https://github-readme-stats.vercel.app/api?username=fhodun&hide_border=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhodun&hide_border=true&show_icons=true&theme=tokyonight&layout=compact&langs_count=6"/>
+<details>    
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
+  <img width="460em" src="https://github-readme-stats.vercel.app/api?username=fhodun&hide_border=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhodun&hide_border=true&show_icons=true&theme=tokyonight&layout=compact&langs_count=6"/>
+</details>
 
 <details>    
   <summary><b>☄️ Github Streaks</b></summary>
